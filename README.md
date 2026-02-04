@@ -5,7 +5,8 @@
 It combines **real‑time matchmaking**, **WebSocket‑driven battles**, and a **modern animated UI** to deliver a fast, fair, and intense coding experience.
 
 🌐 **Live Application:**  
-👉 https://chaos-and-chaos.vercel.app/
+👉 https://code-chaos.vercel.app/
+
 
 ---
 
